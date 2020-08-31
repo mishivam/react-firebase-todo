@@ -23,12 +23,12 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-public
-src/index.js
-src/serviceWorker.js
-src/.js
-src/index.js
-src/index.js
+/public
+/src/index.js
+/src/serviceWorker.js
+/src/.js
+
+
 
 .firebaserc
 firebase.json
